@@ -1,0 +1,7 @@
+{
+    "settings":
+    [
+        {"ShotID": "shot1", "filenames": ["test1.mp4", "test2.mp4"]},
+        {"ShotID": "shot2", "filenames": ["test3.mp4"]}
+    ]
+}
