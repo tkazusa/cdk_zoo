@@ -1,0 +1,1 @@
+https://aws.plainenglish.io/connecting-api-gateway-to-ecs-fargate-using-the-aws-cdk-61519e781852
